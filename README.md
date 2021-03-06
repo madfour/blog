@@ -76,6 +76,8 @@
 
 6.[px和em、rem的区别?](https://github.com/madfour/blog/issues/35)
 
+7.[介绍下重绘和回流，以及如何进行优化?](https://github.com/madfour/blog/issues/38)
+
 
 
 ## 浏览器以及网络HTTP相关
