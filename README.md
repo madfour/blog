@@ -88,12 +88,13 @@
 
 
 
-## 笔记《杂记》
+## 笔记-杂记
 
 1.[EChart在饼图/柱图内显示数值，添加百分号以及position属性的用法](https://github.com/madfour/blog/issues/18#issue-813560731)
 
 
-## 开发笔记
+## 笔记-开发
 
+1.[创建Nuxtjs项目步骤详解](https://github.com/madfour/blog/issues/39)
 
 
