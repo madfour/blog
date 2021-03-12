@@ -98,3 +98,15 @@
 1.[创建Nuxtjs项目步骤详解](https://github.com/madfour/blog/issues/39)
 
 
+
+
+## 工具
+
+1.[idea PyCharm 全家桶激活码 - lookdiv](http://lookdiv.com/)
+
+
+
+
+
+
+
