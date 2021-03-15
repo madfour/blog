@@ -1,5 +1,10 @@
-# 即将开始使用 VuePress 搭建文档博客，更方便查阅自己记录下的文档。
+# 规划
 
+> 即将开始使用 VuePress 搭建文档博客，更方便查阅自己记录下的文档。
+> 
+> 使用 [vuepress1.x](https://v1.vuepress.vuejs.org/zh/), 主题使用很成熟的[vuepress-theme-reco](https://github.com/recoluan/vuepress-theme-reco)
+> 
+> 脑壳疼>_<
 
 
 
