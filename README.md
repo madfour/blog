@@ -4,7 +4,6 @@
 > 
 > 使用 [vuepress1.x](https://v1.vuepress.vuejs.org/zh/), 主题使用很成熟的[vuepress-theme-reco](https://github.com/recoluan/vuepress-theme-reco)
 > 
-> 脑壳疼>_<
 
 
 
