@@ -96,6 +96,10 @@
 2.[一次完整的HTTP事务是怎样一个过程?](https://github.com/madfour/blog/issues/37)
 
 
+## Git
+
+1.[git 提交或拉取代码时的常见错误](https://github.com/madfour/blog/issues/40)
+
 
 ## 笔记-杂记
 
