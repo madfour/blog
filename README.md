@@ -100,6 +100,8 @@
 
 1.[git 提交或拉取代码时的常见错误](https://github.com/madfour/blog/issues/40)
 
+2.[Git修改ssh和https上传模式](https://github.com/madfour/blog/issues/41)
+
 
 ## 笔记-杂记
 
