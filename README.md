@@ -31,7 +31,7 @@
 
 11.[JavaScript中var、let和const的区别](https://github.com/madfour/blog/issues/29)
 
-12.[JS日期时间比较](https://github.com/madfour/blog/issues/44)
+12.[JS日期时间比较（推荐使用Date.parse()，而非 Date.UTC()）](https://github.com/madfour/blog/issues/44)
 
 
 ## ES6 & 异步
