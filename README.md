@@ -115,6 +115,8 @@
 
 2.[js-cookie 使用文档](https://github.com/madfour/blog/issues/42)
 
+3.[element-ui的table表格控件表头与内容列不对齐的问题](https://github.com/madfour/blog/issues/45)
+
 
 ## 笔记-开发
 
