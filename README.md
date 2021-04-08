@@ -106,7 +106,7 @@
 
 3.[vue-cli配置（三）：Preload和Prefetch](https://github.com/madfour/blog/issues/48)
 
-
+4.[vue-cli配置（四）：使用 splitChunks 将第三方资源单独打包](https://github.com/madfour/blog/issues/49)
 
 
 
