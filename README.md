@@ -100,7 +100,9 @@
 
 ## vue-cli 配置
 
-1.[vue-cli配置：环境配置文件介绍以及基础配置](https://github.com/madfour/blog/issues/43)
+1.[vue-cli配置（一）：环境配置文件介绍以及基础配置](https://github.com/madfour/blog/issues/43)
+
+2.[vue-cli配置（二）：配置 proxy代理、添加别名 alias](https://github.com/madfour/blog/issues/47)
 
 
 ## Git
