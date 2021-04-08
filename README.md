@@ -104,6 +104,11 @@
 
 2.[vue-cli配置（二）：配置 proxy代理、添加别名 alias](https://github.com/madfour/blog/issues/47)
 
+3.[vue-cli配置（三）：Preload和Prefetch](https://github.com/madfour/blog/issues/48)
+
+
+
+
 
 ## Git
 
