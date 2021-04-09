@@ -33,6 +33,8 @@
 
 12.[JS日期时间比较（推荐使用Date.parse()，而非 Date.UTC()）](https://github.com/madfour/blog/issues/44)
 
+13.[JS常用的校验封装](https://github.com/madfour/blog/issues/51)
+
 
 ## ES6 & 异步
 
