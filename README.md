@@ -98,7 +98,7 @@
 2.[一次完整的HTTP事务是怎样一个过程?](https://github.com/madfour/blog/issues/37)
 
 
-## vue-cli 配置
+## 项目配置
 
 1.[vue-cli配置（一）：环境配置文件介绍以及基础配置](https://github.com/madfour/blog/issues/43)
 
@@ -108,7 +108,7 @@
 
 4.[vue-cli配置（四）：使用 splitChunks 将第三方资源单独打包](https://github.com/madfour/blog/issues/49)
 
-
+5.[vue-cli配置（五）：runtime.js处理策略(runtimeChunk、html-webpack-plugin)](https://github.com/madfour/blog/issues/50)
 
 ## Git
 
