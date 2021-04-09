@@ -112,6 +112,12 @@
 
 5.[vue-cli配置（五）：runtime.js处理策略(runtimeChunk、html-webpack-plugin)](https://github.com/madfour/blog/issues/50)
 
+6.[vue-cli配置（六）：SVG 内联(svg-sprite-loader)](https://github.com/madfour/blog/issues/52)
+
+
+
+
+
 ## Git
 
 1.[git 提交或拉取代码时的常见错误](https://github.com/madfour/blog/issues/40)
