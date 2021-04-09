@@ -100,7 +100,7 @@
 
 ## 项目配置
 
-1.[vue-cli配置（一）：环境配置文件介绍、基础配置 以及 检验配置](https://github.com/madfour/blog/issues/43)
+1.[vue-cli配置（一）：环境配置文件介绍、基础配置 以及 导出配置文件](https://github.com/madfour/blog/issues/43)
 
 2.[vue-cli配置（二）：配置 proxy代理、添加别名 alias](https://github.com/madfour/blog/issues/47)
 
