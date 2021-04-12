@@ -102,19 +102,19 @@
 
 ## 项目配置
 
-1.[vue-cli配置（一）：环境配置文件介绍、基础配置 以及 导出配置文件](https://github.com/madfour/blog/issues/43)
+1.[vue-cli4.5配置（一）：环境配置文件介绍、基础配置 以及 导出配置文件](https://github.com/madfour/blog/issues/43)
 
-2.[vue-cli配置（二）：配置 proxy代理、添加别名 alias](https://github.com/madfour/blog/issues/47)
+2.[vue-cli4.5配置（二）：配置 proxy代理、添加别名 alias](https://github.com/madfour/blog/issues/47)
 
-3.[vue-cli配置（三）：Preload和Prefetch](https://github.com/madfour/blog/issues/48)
+3.[vue-cli4.5配置（三）：Preload和Prefetch](https://github.com/madfour/blog/issues/48)
 
-4.[vue-cli配置（四）：使用 splitChunks 将第三方资源单独打包](https://github.com/madfour/blog/issues/49)
+4.[vue-cli4.5配置（四）：使用 splitChunks 将第三方资源单独打包](https://github.com/madfour/blog/issues/49)
 
-5.[vue-cli配置（五）：runtime.js处理策略(runtimeChunk、html-webpack-plugin)](https://github.com/madfour/blog/issues/50)
+5.[vue-cli4.5配置（五）：runtime.js处理策略(runtimeChunk、html-webpack-plugin)](https://github.com/madfour/blog/issues/50)
 
-6.[vue-cli配置（六）：SVG 内联(svg-sprite-loader)](https://github.com/madfour/blog/issues/52)
+6.[vue-cli4.5配置（六）：SVG 内联(svg-sprite-loader)](https://github.com/madfour/blog/issues/52)
 
-
+7.[vue-cli4.5创建项目后的其它文件创建、配置和作用](https://github.com/madfour/blog/issues/53)
 
 
 
