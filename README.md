@@ -9,7 +9,7 @@
 
 ## JavaScript
 
-1.[函数防抖和节流，它们的区别与实现？](https://github.com/madfour/blog/issues/4#issue-810849355)
+1.[防抖(debounce)和节流(throttle)的实现和区别？](https://github.com/madfour/blog/issues/4#issue-810849355)
 
 2.[简单理解垃圾回收机制](https://github.com/madfour/blog/issues/7#issue-810858993)
 
