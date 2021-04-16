@@ -116,7 +116,7 @@
 
 7.[vue-cli4.5创建项目后的其它文件创建、配置和作用](https://github.com/madfour/blog/issues/53)
 
-
+8.[vue-cli其它配置：去除console、开启gizp压缩、打包分析](https://github.com/madfour/blog/issues/54)
 
 ## Git
 
