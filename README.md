@@ -127,11 +127,13 @@
 
 ## 笔记-杂记
 
-1.[EChart在饼图/柱图内显示数值，添加百分号以及position属性的用法](https://github.com/madfour/blog/issues/18#issue-813560731)
+1.[ECharts5.x在饼图/柱图内显示数值，添加百分号以及position属性的用法](https://github.com/madfour/blog/issues/18#issue-813560731)
 
 2.[js-cookie 使用文档](https://github.com/madfour/blog/issues/42)
 
 3.[element-ui的table表格控件表头与内容列不对齐的问题](https://github.com/madfour/blog/issues/45)
+
+4.[Echarts5.x 地图数据导入和使用](https://github.com/madfour/blog/issues/55)
 
 
 ## 笔记-开发
