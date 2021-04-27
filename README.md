@@ -135,6 +135,10 @@
 
 4.[Echarts5.x 地图数据导入和使用](https://github.com/madfour/blog/issues/55)
 
+5.[vue项目中使用 百度地图 实现 Echart5.x 地图(线图)效果](https://github.com/madfour/blog/issues/56)
+
+
+
 
 ## 笔记-开发
 
