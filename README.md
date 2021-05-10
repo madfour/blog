@@ -137,12 +137,13 @@
 
 5.[vue项目中使用 百度地图 实现 Echart5.x 地图(线图)效果](https://github.com/madfour/blog/issues/56)
 
-
+6.[JS正则表达式-常见表达式和字符](https://github.com/madfour/blog/issues/57)
 
 
 ## 笔记-开发
 
 1.[创建Nuxtjs项目步骤详解](https://github.com/madfour/blog/issues/39)
+
 
 
 ## 工具
