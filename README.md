@@ -142,7 +142,7 @@
 
 ## 笔记-开发
 
-1.[创建Nuxtjs项目步骤详解](https://github.com/madfour/blog/issues/39)
+1.[创建Nuxtjs项目步骤](https://github.com/madfour/blog/issues/39)
 
 
 
@@ -150,7 +150,7 @@
 
 1.[idea PyCharm 全家桶激活码 - lookdiv](http://lookdiv.com/)
 
-
+2.[yarn的安装和使用](https://blog.csdn.net/yw00yw/article/details/81354533)
 
 
 
