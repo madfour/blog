@@ -2,8 +2,8 @@
 
 ```bash
 # clone the project
-git clone https://github.com/madfour/blog-docs.git
-# or git clone git@github.com:madfour/blog-docs.git
+git clone git@github.com:madfour/blog-docs.git
+# or git clone https://github.com/madfour/blog-docs.git
 
 # enter the project directory
 cd blog-docs
