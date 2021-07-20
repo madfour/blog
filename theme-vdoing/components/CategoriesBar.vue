@@ -93,7 +93,7 @@ export default {
 
     a {
       display: block;
-      padding: 8px 0.95rem 7px 0.95rem;
+      padding: 8px 0.5rem 7px 0.5rem;
       color: var(--textColor);
       opacity: 0.8;
       font-size: 1rem;
@@ -101,6 +101,7 @@ export default {
       position: relative;
       transition: all 0.2s;
       border-left: 2px solid transparent;
+      border-bottom: 1px solid var(--borderColor);
       margin-top: -1px;
       overflow: hidden;
       white-space: nowrap;
